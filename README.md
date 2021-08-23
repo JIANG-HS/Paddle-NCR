@@ -1,2 +1,2 @@
 # Paddle-NCR
-Paddle复现NCR论文
+Paddle复现Neural Collaborative Reasoning论文
